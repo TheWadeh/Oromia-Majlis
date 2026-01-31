@@ -11,26 +11,29 @@ A full-stack web application for Majlisa Oromiyaa Islamic Center.
 ## Tech Stack
 
 ### Frontend
-- **React 18** - UI library
+- **React 19** - UI library
 - **TypeScript** - Type-safe JavaScript
 - **Vite** - Build tool and dev server
 - **Tailwind CSS** - Utility-first CSS framework
 - **i18n** - Multi-language support (Oromo, English, Amharic, Arabic)
 
 ### Backend
-- **Laravel 11** - PHP web framework
+- **Laravel 12** - PHP web framework
 - **MySQL** - Database
 - **Laravel Sanctum** - API authentication
 - **RESTful API** - API architecture
 
 ## Features
 
-- Multi-language support
+- Multi-language support (Oromo, English, Amharic, Arabic)
+- Real-time prayer times
+- Hijri calendar
+- Ethiopian calendar
 - Event management
 - Gallery system
 - Contact form
 - Responsive design
-- PWA support
+- Progressive Web App (PWA) - installable on any device
 
 ## Robust Custom Dashboard
 
